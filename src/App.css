@@ -1,0 +1,13 @@
+.titulo{
+    text-align: center;
+    color: #fad3ca;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+
+@media screen and (max-width: 480px) {
+    .titulo {
+      font-size: 20px;
+    }
+  }
