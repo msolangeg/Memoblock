@@ -1,3 +1,5 @@
+<img src='https://res.cloudinary.com/dv7kzlqy6/image/upload/v1710347352/memoblok_pzsbty.png'>
+</br>
 Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
 
 # Memoblock
