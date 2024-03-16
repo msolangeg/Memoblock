@@ -25,6 +25,9 @@ Para jugar, haz clic en una carta para revelarla. Si la carta coincide con la ca
 
 El juego termina cuando hayas encontrado todas las parejas de cartas.
 
+Deploy:
+https://memoblock.vercel.app/
+
 <h2>Contribuciones:</h2></br>
 Si deseas contribuir a este proyecto, puedes hacerlo bifurcando el repositorio en GitHub y enviando una solicitud de pull.
 
